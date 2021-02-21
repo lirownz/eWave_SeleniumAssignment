@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="33874" started-at="2021-02-19T13:23:42 IST" finished-at="2021-02-19T13:24:16 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="33874" started-at="2021-02-19T13:23:42 IST" finished-at="2021-02-19T13:24:16 IST">
+      <class name="seleniumTest.LoginUserTesting">
+        <test-method status="PASS" signature="setUpTest()[pri:0, instance:seleniumTest.LoginUserTesting@35a50a4c]" name="setUpTest" is-config="true" duration-ms="4685" started-at="2021-02-19T13:23:42 IST" finished-at="2021-02-19T13:23:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpTest -->
+        <test-method status="PASS" signature="lockedOutUserLoginTest()[pri:0, instance:seleniumTest.LoginUserTesting@35a50a4c]" name="lockedOutUserLoginTest" duration-ms="3447" started-at="2021-02-19T13:23:47 IST" finished-at="2021-02-19T13:23:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lockedOutUserLoginTest -->
+        <test-method status="PASS" signature="finishTest()[pri:0, instance:seleniumTest.LoginUserTesting@35a50a4c]" name="finishTest" is-config="true" duration-ms="1285" started-at="2021-02-19T13:23:51 IST" finished-at="2021-02-19T13:23:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finishTest -->
+        <test-method status="PASS" signature="setUpTest()[pri:0, instance:seleniumTest.LoginUserTesting@35a50a4c]" name="setUpTest" is-config="true" duration-ms="3907" started-at="2021-02-19T13:23:52 IST" finished-at="2021-02-19T13:23:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpTest -->
+        <test-method status="PASS" signature="performanceGlitchUserLoginTest()[pri:0, instance:seleniumTest.LoginUserTesting@35a50a4c]" name="performanceGlitchUserLoginTest" duration-ms="9496" started-at="2021-02-19T13:23:56 IST" finished-at="2021-02-19T13:24:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- performanceGlitchUserLoginTest -->
+        <test-method status="PASS" signature="finishTest()[pri:0, instance:seleniumTest.LoginUserTesting@35a50a4c]" name="finishTest" is-config="true" duration-ms="1301" started-at="2021-02-19T13:24:05 IST" finished-at="2021-02-19T13:24:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finishTest -->
+        <test-method status="PASS" signature="setUpTest()[pri:0, instance:seleniumTest.LoginUserTesting@35a50a4c]" name="setUpTest" is-config="true" duration-ms="3859" started-at="2021-02-19T13:24:07 IST" finished-at="2021-02-19T13:24:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpTest -->
+        <test-method status="PASS" signature="standardUserLoginTest()[pri:0, instance:seleniumTest.LoginUserTesting@35a50a4c]" name="standardUserLoginTest" duration-ms="4532" started-at="2021-02-19T13:24:10 IST" finished-at="2021-02-19T13:24:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- standardUserLoginTest -->
+        <test-method status="PASS" signature="finishTest()[pri:0, instance:seleniumTest.LoginUserTesting@35a50a4c]" name="finishTest" is-config="true" duration-ms="1319" started-at="2021-02-19T13:24:15 IST" finished-at="2021-02-19T13:24:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finishTest -->
+      </class> <!-- seleniumTest.LoginUserTesting -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
